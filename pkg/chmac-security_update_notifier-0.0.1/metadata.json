@@ -1,13 +1,15 @@
 {
   "checksums": {
-    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
-    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
-    "Modulefile": "2917a1e4bfcfbd3e2e00edefec7ed650",
-    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
-    "README.md": "bf5d704ef060a4a262bf655c8cab7d15",
-    "manifests/init.pp": "9880ccdecd5007ec9826c08f56cb8de0",
     "tests/init.pp": "f753e0974de178f26d2908b72e5e2d2e",
-    "README": "a3abdb9db8be8dda7ff372fcf66db5d3"
+    "README": "a3abdb9db8be8dda7ff372fcf66db5d3",
+    "Modulefile": "2917a1e4bfcfbd3e2e00edefec7ed650",
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "files/src/security-update-notifier.sh": "b3d78d7dbba2f282a340858b57173d57",
+    "manifests/init.pp": "9880ccdecd5007ec9826c08f56cb8de0",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "files/src/README.md": "74bb6d3e2e3f688ecbeccf7f9abf4c27",
+    "README.md": "bf5d704ef060a4a262bf655c8cab7d15",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef"
   },
   "dependencies": [
 
