@@ -17,7 +17,7 @@ class security_update_notifier {
 
 	file { '/usr/bin/security-update-notifier.sh':
 		mode			=> 664,
-		source			=> 'puppet:///modules/chamc-security_update_notifier/src/security-update-notifier.sh',
+		source			=> 'puppet:///modules/security_update_notifier/src/security-update-notifier.sh',
 	}
 
 	cron { 'security-update-notifier':
