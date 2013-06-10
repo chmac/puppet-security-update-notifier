@@ -1,0 +1,28 @@
+{
+  "checksums": {
+    "files/src/README.md": "74bb6d3e2e3f688ecbeccf7f9abf4c27",
+    "files/src/security-update-notifier.sh": "b3d78d7dbba2f282a340858b57173d57",
+    "Modulefile": "cdd7341fc4685e43afb8769ef0ea3b0b",
+    "tests/init.pp": "f753e0974de178f26d2908b72e5e2d2e",
+    "README.md": "bf5d704ef060a4a262bf655c8cab7d15",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "manifests/init.pp": "94631e99a6e53e2b1c1aabc124d9c04a",
+    "README": "a3abdb9db8be8dda7ff372fcf66db5d3",
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909"
+  },
+  "dependencies": [
+
+  ],
+  "summary": "UNKNOWN",
+  "source": "UNKNOWN",
+  "description": "UNKNOWN",
+  "author": "chmac",
+  "license": "UNKNOWN",
+  "types": [
+
+  ],
+  "version": "0.0.3",
+  "name": "chmac-security_update_notifier",
+  "project_page": "UNKNOWN"
+}
