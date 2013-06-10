@@ -20,6 +20,8 @@ class security_update_notifier {
 	}
 
 	file { '/usr/bin/security-update-notifier.sh':
+		owner			=> 'root',
+		group			=> 'root',
 		mode			=> 755,
 		source			=> 'puppet:///modules/security_update_notifier/src/security-update-notifier.sh',
 		require			=> Package['sun-update-notifier-common'],
