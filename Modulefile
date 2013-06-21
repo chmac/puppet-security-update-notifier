@@ -1,5 +1,5 @@
 name    'chmac-security_update_notifier'
-version '0.0.3'
+version '0.0.4'
 source 'UNKNOWN'
 author 'chmac'
 license 'UNKNOWN'
